@@ -1,0 +1,17 @@
+html, body {
+    background-color: #343a40;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.content {
+    height: 100%;
+    width: 100%;
+    display: table;
+}
+
+.wrapper {
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+}
